@@ -27,9 +27,9 @@ I am a passionate software developer with a focus on Flutter app development, An
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RafidNabil&theme=dracula)
 
 ### 🌐 Connect with me
-- LinkedIn: [Your LinkedIn Profile]([https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE/](https://www.linkedin.com/in/rafid-tasnim-nabil-6081ba226/))
-- Codeforces: [Your LinkedIn Profile]([https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE/](https://codeforces.com/profile/Rafid_Nabil))
-- Facebook: [Your Portfolio]([https://YOUR_PORTFOLIO_LINK](https://www.facebook.com/rafid.nabil.1485537))
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafid-tasnim-nabil-6081ba226/)
+- [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Rafid_Nabil)
+- [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/rafid.nabil.1485537)
 
 ---
 
