@@ -9,13 +9,12 @@ I am a passionate software developer with a focus on Flutter app development, An
 - 🌱 I’m currently learning Computer Vision, Deep Learning, Machine Learning, and Image Processing.
 - 👯 I’m looking to collaborate on innovative and impactful projects.
 - 💬 Ask me about Flutter, Android, MERN stack, or any programming-related topics!
-- 📫 How to reach me: [Your Email] | [LinkedIn Profile]
 
 ### 🛠️ Technologies & Tools
 - **Languages:** Dart, JavaScript, Python, Java, C++
 - **Frameworks & Libraries:** Flutter, React, Node.js, Express.js
 - **Databases:** MongoDB, MySQL
-- **Other Tools:** Git, Docker, Firebase, TensorFlow, OpenCV
+- **Other Tools:** Git, Firebase, TensorFlow, OpenCV
 
 ### 🏆 GitHub Profile Trophies
 ![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=RafidNabil&theme=dracula&margin-w=15&margin-h=15&column=7)
