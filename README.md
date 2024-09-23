@@ -5,13 +5,13 @@
 I am a passionate software developer with a focus on Flutter app development, Android app development, and the MERN stack. I also enjoy competitive programming and continually seek to improve my problem-solving skills.
 
 ### 🚀 About Me
+- 📖 I’m currently studying in Computer Science and Engineering at Ahsanullah University of Science and Technology
 - 🔭 I’m currently working on various exciting projects involving Flutter, Android, and the MERN stack.
 - 🌱 I’m currently learning Computer Vision, Deep Learning, Machine Learning, and Image Processing.
 - 👯 I’m looking to collaborate on innovative and impactful projects.
-- 💬 Ask me about Flutter, Android, MERN stack, or any programming-related topics!
 
 ### 🛠️ Technologies & Tools
-- **Languages:** Dart, JavaScript, Python, Java, C++
+- **Languages:** C/C++, Dart, JavaScript, Python, Java 
 - **Frameworks & Libraries:** Flutter, React, Node.js, Express.js
 - **Databases:** MongoDB, MySQL
 - **Other Tools:** Git, Firebase, TensorFlow, OpenCV
